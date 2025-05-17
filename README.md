@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Connect me with:</h3>
+<h3 align="left">🤙Connect me with:</h3>
 
 ###
 
